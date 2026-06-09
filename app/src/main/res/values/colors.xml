@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_dark">#0F1014</color>
+    <color name="card_bg">#1B1C22</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8F8F8F</color>
+
+    <color name="accent_purple">#9B8AFB</color>
+    <color name="accent_green">#A1E9A1</color>
+    <color name="accent_orange">#FF9F43</color>
+    <color name="accent_blue">#54A0FF</color>
+
+    <color name="chip_bg_green">#1A3B2A</color>
+    <color name="chip_bg_purple">#2A1F3D</color>
+</resources>
