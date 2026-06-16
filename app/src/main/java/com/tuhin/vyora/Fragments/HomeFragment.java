@@ -1,6 +1,5 @@
-package com.tuhin.vyora;
+package com.tuhin.vyora.Fragments;
 
-import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,6 +17,7 @@ import com.github.mikephil.charting.data.Entry;
 import com.github.mikephil.charting.data.LineData;
 import com.github.mikephil.charting.data.LineDataSet;
 import com.github.mikephil.charting.formatter.IndexAxisValueFormatter;
+import com.tuhin.vyora.R;
 
 import java.util.ArrayList;
 import java.util.List;

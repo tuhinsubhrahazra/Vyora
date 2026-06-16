@@ -1,4 +1,4 @@
-package com.tuhin.vyora;
+package com.tuhin.vyora.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,6 +13,8 @@ import androidx.core.view.WindowInsetsCompat;
 
 import android.content.Context;
 import android.content.SharedPreferences;
+
+import com.tuhin.vyora.R;
 
 public class MainActivity extends AppCompatActivity {
 

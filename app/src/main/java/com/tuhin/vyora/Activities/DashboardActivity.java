@@ -1,4 +1,4 @@
-package com.tuhin.vyora;
+package com.tuhin.vyora.Activities;
 
 import android.os.Bundle;
 
@@ -13,6 +13,11 @@ import androidx.viewpager2.adapter.FragmentStateAdapter;
 import androidx.viewpager2.widget.ViewPager2;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.tuhin.vyora.Fragments.HistoryFragment;
+import com.tuhin.vyora.Fragments.HomeFragment;
+import com.tuhin.vyora.R;
+import com.tuhin.vyora.Fragments.SettingsFragment;
+import com.tuhin.vyora.Fragments.TrackersFragment;
 
 public class DashboardActivity extends AppCompatActivity {
 

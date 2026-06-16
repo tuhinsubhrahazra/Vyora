@@ -1,4 +1,4 @@
-package com.tuhin.vyora;
+package com.tuhin.vyora.Fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -16,6 +16,7 @@ import com.github.mikephil.charting.components.YAxis;
 import com.github.mikephil.charting.data.Entry;
 import com.github.mikephil.charting.data.LineData;
 import com.github.mikephil.charting.data.LineDataSet;
+import com.tuhin.vyora.R;
 
 import java.util.ArrayList;
 import java.util.List;
